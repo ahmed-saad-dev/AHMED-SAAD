@@ -56,15 +56,15 @@
 <p align="left">
 
 <a href="https://github.com/ahmed-saad-dev">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_PROFILE">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ahmedsaaddawoud18@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
