@@ -43,9 +43,9 @@
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- Email: your@email.com  
+- GitHub:ahmed-saad-dev  
+- LinkedIn: [https://linkedin.com/in/YOUR_PROFILE  ](https://www.linkedin.com/in/ahmed-saad-598372369/)
+- Email: ahmedsaaddawoud18@gmail.com 
 
 ---
 
