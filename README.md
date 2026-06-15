@@ -40,10 +40,23 @@
 
 
 ## 📫 Connect with Me
-- GitHub:ahmed-saad-dev  
-- LinkedIn: [https://linkedin.com/in/YOUR_PROFILE  ](https://www.linkedin.com/in/ahmed-saad-598372369/)
-- Email: ahmedsaaddawoud18@gmail.com 
+<p align="left">
 
+<a href="https://github.com/ahmed-saad-dev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+</a>
+&nbsp;
+
+<a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
+&nbsp;
+
+<a href="mailto:ahmedsaaddawoud18@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
+</a>
+
+</p>
 ---
 
 ⭐ Always learning and building cool stuff
