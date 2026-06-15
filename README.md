@@ -53,22 +53,23 @@
 
 ## 📫 Connect with Me
 
+
+
 <p align="left">
 
-<a href="https://github.com/ahmed-saad-dev">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+<a href="https://github.com/ahmed-saad-dev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_PROFILE">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+<a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ahmedsaaddawoud18@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 ⭐ Always building. Always learning. Always improving.
